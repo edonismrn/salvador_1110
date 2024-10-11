@@ -1,0 +1,6 @@
+{
+    "ConfigurationApiUrl": "http://localhost:11000",
+    "Service": "salvador-task-management",
+    "SalvadorApiUrl": "https://82.188.198.78:9443/opencube/rest"
+}
+

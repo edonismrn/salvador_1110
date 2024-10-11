@@ -1,0 +1,47 @@
+{
+    "Menus": [
+        {
+            "Id": 1,
+            "Name": "Menu",
+            "SubMenu": {
+                "SubMenus": [
+                    {
+                        "Leaf": {
+                            "Name": "Articoli",
+                            "Process": "Articoli",
+                            "Icon": "0xe0a2"
+                        }
+                    },
+                    {
+                        "Leaf": {
+                            "Name": "Nuovo Intervento",
+                            "Process": "NuovoIntervento",
+                            "Icon": "0xe047"
+                        }
+                    },
+                    {
+                        "Leaf": {
+                            "Name": "Interventi Aperti",
+                            "Process": "InterventiAperti",
+                            "Icon": "0xe0ef"
+                        }
+                    },
+                    {
+                        "Leaf": {
+                            "Name": "Interventi Modificati",
+                            "Process": "Interventi Modificati",
+                            "Icon": "0xe21a"
+                        }
+                    },
+                    {
+                        "Leaf": {
+                            "Name": "Aggiornamento dati",
+                            "Process": "AggiornamentoDati",
+                            "Icon": "0xe692"
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
